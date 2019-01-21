@@ -1,5 +1,5 @@
-# RDY GO
-Ready Go for 9g micro servo. 
+# RDY GO!
+RDY GO! for 9g micro servo. 
 
 ![Creative Commons License](https://i.creativecommons.org/l/by-sa/3.0/88x31.png)
 
